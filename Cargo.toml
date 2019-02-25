@@ -1,0 +1,8 @@
+[package]
+name = "R-Binance-triangular-arbitrage"
+version = "0.1.0"
+authors = ["Balu"]
+edition = "2019"
+
+[dependencies]
+binance = { git = "https://github.com/wisespace-io/binance-rs.git" }
